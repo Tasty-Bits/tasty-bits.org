@@ -1,0 +1,9 @@
+google-site-verification=-IEI0ALkX7TlPDUl03niSU6qgxcFH--vF5kxP80QUnA
+
+
+ // Dynamic Links will start with https://tasty-bits-org.web.app
+"appAssociation": "AUTO",
+"rewrites": [ { "source": "/**", "dynamicLinks": true } ]
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c33081d-8223-4390-887f-b9251352f8ec/deploy-status)](https://app.netlify.com/sites/tasty-bits/deploys)
